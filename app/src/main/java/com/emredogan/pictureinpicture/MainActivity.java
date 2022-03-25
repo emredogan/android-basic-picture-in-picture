@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
             //GOING INTO PIP
             pipButton.setVisibility(View.INVISIBLE);
             getSupportActionBar().hide();
-            textView.setText("BITCOIN 21142");
+            textView.setText("PICTURE IN PICTURE");
         } else {
             //GOING OUT PIP
             pipButton.setVisibility(View.VISIBLE);
